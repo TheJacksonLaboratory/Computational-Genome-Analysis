@@ -1,0 +1,5 @@
+FAM1	I.1	 0	  0	  1	1
+FAM1	I.2	 0	  0	  2	1
+FAM1	II.1	I.1	I.2	1	2
+FAM1	II.2	I.1	I.2	1	2
+FAM1	II.3	I.1	I.2	2	1
