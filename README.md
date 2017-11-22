@@ -2,7 +2,14 @@
 
 This is the website for [Computational Exome and Genome Analysis](https://www.crcpress.com/Computational-Exome-and-Genome-Analysis/Robinson-Piro-Jager/p/book/9781498775984) by Peter Robinson, Rosario Piro, and Marten Jäger. Readers will find scripts, programs, files, and other supporting material for the book. The book aims to provide a practical introduction to all of the major areas in the field, in order to help readers to develop a comprehensive understanding of the technologies, the medical use cases, and the entire computational analysis pipeline.
 
+# Feedback
+Please send questions, comments, and suggestions to the authors using the Issue tracker on this site. We will keep a list of [errata](ERRATA.md).
 
+# Scripts
+This repository contains scripts and other resources intended for the exercises in the book.
+* Chapter 20: pedigree files:  	fam1.ped,	fam2.ped, fam3.ped and	sample-GRC38.vcf: see the _pedigree_ subdirectory
+* Chapter 32: files for running DrGAP:  	NA12878_annotated.vcf.gz,	NA12878_filtered.vcf, hg38_refGene.exp: see the _drgap_ subdirectory
+* convertGenomeAccessions.pl: a script to convert VCF coordinates, an annoying but inevitable task for genome bioinformatics: see the _convertVCF_ subdirectory.
 
 
 
