@@ -7,8 +7,9 @@ Please send questions, comments, and suggestions to the authors using the Issue 
 
 # Scripts
 This repository contains scripts and other resources intended for the exercises in the book.
-* Chapter 20: pedigree files:  	fam1.ped,	fam2.ped, fam3.ped and	sample-GRC38.vcf: see the _pedigree_ subdirectory
-* Chapter 32: files for running DrGAP:  	NA12878_annotated.vcf.gz,	NA12878_filtered.vcf, hg38_refGene.exp: see the _drgap_ subdirectory
+* Chapter 19: conifer.dat
+* Chapter 20: pedigree files:  	fam1.ped, fam2.ped, fam3.ped and sample-GRC38.vcf: see the _pedigree_ subdirectory
+* Chapter 32: files for running DrGAP: NA12878_annotated.vcf.gz, NA12878_filtered.vcf, hg38_refGene.exp: see the _drgap_ subdirectory
 * convertGenomeAccessions.pl: a script to convert VCF coordinates, an annoying but inevitable task for genome bioinformatics: see the _convertVCF_ subdirectory.
 
 
