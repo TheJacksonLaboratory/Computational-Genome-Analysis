@@ -6,7 +6,7 @@ This is the website for [Computational Exome and Genome Analysis](https://www.cr
 Please send questions, comments, and suggestions to the authors using the Issue tracker on this site. We will keep a list of [errata](ERRATA.md).
 
 # Additional Material
-* [Introduction to SVD] (https://github.com/TheJacksonLaboratory/Computational-Genome-Analysis/blob/master/SVD-Intro.pdf)
+* Introduction to SVD: https://github.com/TheJacksonLaboratory/Computational-Genome-Analysis/blob/master/SVD-Intro.pdf
 
 # Scripts
 This repository contains scripts and other resources intended for the exercises in the book.
